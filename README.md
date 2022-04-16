@@ -58,7 +58,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/zeeone-ofc/Alphabot-Md.git
+git clone https://github.com/kap320/Alphabot-Md.git
 cd Alphabot-Md
 pkg install yarn
 yarn install
@@ -79,14 +79,14 @@ global.available = false //status online (online)
 
 // Other
 global.botname = "Alphabot-Mdོ"
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+global.ownername= "ᴹᴿ᭄ Riza「XYZ」 ×፝֟͜×"
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
 global.github = "https://zeeone-ofc.github.io/"
-global.email = "zeeoneofc@gmail.com"
+global.email = "boyahmad13131@gmail.com"
 global.region = "Indonesia"
-global.ownernomer = "62887435047326"
-global.ownernomerr = "+62887435047326"
+global.ownernomer = "6281391883354"
+global.ownernomerr = "+6281391883354"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
@@ -103,11 +103,11 @@ global.sessionName = 'session'
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/SdKHkld2NcI"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+  <a href="https://Bit.ly/3qCgkKv"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
 </p>
 
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
+- [Saweria](https://saweria.co/NakanoBot)
 - [Dana](https://j.top4top.io/p_20532posd1.jpg)
 - [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
 - [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
@@ -133,4 +133,4 @@ For Help | Owner Chikabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](http://github.com/zeeone-ofc.png?size=100)](http://github.com/zeeone-ofc) 
 [Adiwajshing](https://github.com/adiwajshing) | [zeeone-ofc](https://zeeone-ofc.github.io)
 Owner of Baileys | Owner of Api Alphabot |
-
+[Tulis ulang] (https://kap320.github.oi)
